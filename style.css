@@ -1,6 +1,8 @@
 <style>
+        html {
+                background: lightcyan;
+        }
         body {
-            background: lightcyan;
             width: 800px;
             margin: auto;
         }
